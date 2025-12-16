@@ -7,9 +7,7 @@ This project demonstrates batch API processing, business logic execution, backgr
 
 ## 🚀 Live Links
 
-- *Frontend URL:* https://your-frontend-url.com  
-- *Backend API URL:* https://your-backend-url.com  
-
+- *Frontend URL:* https://smart-lead-ka4x.onrender.com
 ---
 
 ## 📦 Tech Stack
