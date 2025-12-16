@@ -7,7 +7,7 @@ const Dashboard = () => {
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState(null);
     const [filter, setFilter] = useState('All');
-    const backendURL = 'http://localhost:5000';
+    const backendURL = 'https://smart-lead-yl6a.onrender.com';
 
     const fetchLeads = async () => {
         try {
